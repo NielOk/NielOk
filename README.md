@@ -1,4 +1,8 @@
-**Hi
+Hi I'm Niel, an undergrad studying EE at Stanford. 
+
+I'm interested in advancing our understanding of neurons, learning systems, and ML. I'm currently a member of the technical staff of a startup coming out of Google DeepMind building high performance ML infrastructure. At Stanford, I figure out how biological neurons activate at the Brains in Silicon Lab with Professor Boahen and Kyrus Mama. I also conduct independent research generally in the areas of the impact of data distributions on the performance of ML models, quantum teleportation and simulating quantum computing, simulation and probabilistic analysis of natural selection, and learning systems that self-generate learning rules. 
+
+If you want to chat, my email is nielok@stanford.edu
 <!--
 **NielOk/NielOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
