@@ -6,10 +6,7 @@ I conduct independent research generally in the areas of the impact of data dist
 
 In the past, I've worked for startups on infrastructure for personalized healthcare, multimodal AI for product sales material generation, and automation of market research through the use of agentic digital twins.  
 
-Current hypotheses (in testing):
-1. The ability to solve new problems does not scale purely with LLMs. 
-2. Natural language is very powerful regardless, and legitimate ideas in generalist, adaptive learning systems look more possible thanks to recent developments.
-3. The way we do AI is missing a lot at the fundamental, neuroscience level.
+Current answering some of my burning questions with [Ok Research](https://github.com/NielOk/ok_research/tree/main)
 
 If you want to chat, my email is nielok@stanford.edu
 <!--
