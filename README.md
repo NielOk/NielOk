@@ -8,8 +8,8 @@ In the past, I've worked for startups on infrastructure for personalized healthc
 
 Current hypotheses (in testing):
 1. The ability to solve new problems does not scale.
-2. Natural language is very powerful regardless, and legitimate ideas in generalist, adaptive intelligence look more possible thanks to recent developments.
-3. The way we do AI is missing a lot, fundamentally at the neuroscience level.
+2. Natural language is very powerful regardless, and legitimate ideas in generalist, adaptive learning systems look more possible thanks to recent developments.
+3. The way we do AI is missing a lot at the fundamental, neuroscience level.
 
 If you want to chat, my email is nielok@stanford.edu
 <!--
