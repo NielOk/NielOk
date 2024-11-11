@@ -6,6 +6,11 @@ I conduct independent research generally in the areas of the impact of data dist
 
 In the past, I've worked for startups on infrastructure for personalized healthcare, multimodal AI for product sales material generation, and automation of market research through the use of agentic digital twins.  
 
+Current hypotheses (in testing):
+1. The ability to solve new problems does not scale.
+2. Natural language is very powerful regardless, and new paradigms have been unlocked thanks to recent developments
+3. The way we do AI is missing a lot, deep in the neuroscience level.
+
 If you want to chat, my email is nielok@stanford.edu
 <!--
 **NielOk/NielOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
