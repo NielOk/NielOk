@@ -1,6 +1,6 @@
 👋 Hi I'm Niel, an undergrad studying EE at Stanford. 
 
-I'm interested in neurons 🧠, learning systems, and ML. I'm currently a member of the technical staff for a startup coming out of Google DeepMind building high performance ML infrastructure for inference. At Stanford, I figure out how biological neurons activate⚡️ at the Brains in Silicon Lab with Professor Boahen and Kyrus Mama. 
+I'm interested in neurons 🧠, learning systems, HPC, and ML. I'm currently a member of the technical staff for a startup coming out of Google DeepMind building high performance ML infrastructure for inference. At Stanford, I figure out how biological neurons activate⚡️ at the Brains in Silicon Lab with Professor Boahen and Kyrus Mama. 
 
 I conduct independent research generally in the areas of the impact of data distributions on the performance of ML models, quantum teleportation and simulated quantum computing, and simulation and probabilistic analysis of natural selection. I'm working on making some of this open source.
 
