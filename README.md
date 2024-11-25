@@ -6,7 +6,7 @@ I conduct independent research generally in the areas of the impact of data dist
 
 In the past, I've worked for startups on infrastructure for personalized healthcare, multimodal AI for product sales material generation, and automation of market research through the use of agentic digital twins.  
 
-I also experiment with learning systems and reasoning cores in (temporarily) closed source research collaborations. 
+I also experiment with learning systems and controlled reasoning cores in (temporarily) closed source research collaborations. 
 
 If you want to chat, my email is nielok@stanford.edu
 <!--
