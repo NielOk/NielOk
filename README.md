@@ -2,7 +2,7 @@
 
 I'm interested in neurons 🧠, learning systems, HPC, compute, and ML. I'm currently a member of the technical staff for a startup coming out of Google DeepMind building high performance ML infrastructure for ultra-fast inference. At Stanford, I figure out how biological neurons activate⚡️ at the Brains in Silicon Lab with Professor Boahen and Kyrus Mama. 
 
-I conduct independent research generally in the areas of the impact of data distributions on the performance of ML models, quantum teleportation and simulated quantum computing, and simulation and probabilistic analysis of natural selection. I'm working on making some of this open source.
+I conduct independent research generally in the areas of the impact of data distributions on the performance of ML models, quantum teleportation and simulated quantum computing, simulation and probabilistic analysis of natural selection, and test-time compute for diffusion models. I'm working on making some of this open source.
 
 In the past, I've worked for startups on infrastructure for personalized healthcare, multimodal AI for product sales material generation, and automation of market research through the use of agentic digital twins.  
 
