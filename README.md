@@ -1,8 +1,6 @@
 👋 Hi I'm Niel, an undergrad studying EE at Stanford. 
 
-I'm interested in neurons 🧠, learning systems, compute, and ML. I'm currently a member of the technical staff for a startup coming out of Google DeepMind building fully vertical ML infrastructure for ultra-fast inference. At Stanford, I look to neurons and neural circuits as inspiration for more efficient learning systems at the Brains in Silicon Lab with Professor Boahen and Kyrus Mama. 
-
-Check out some of my work on test-time compute scaling for diffusion models and simulation of natural selection on my page.
+I'm interested in neurons 🧠, learning systems, compute, and ML. I'm currently a member of the technical staff for a startup coming out of Google DeepMind building fully vertical ML infrastructure for ultra-fast inference. At Stanford, I look to neurons and neural circuits as inspiration for more efficient learning systems at the Brains in Silicon Lab with Professor Boahen and Kyrus Mama. I also do work on test-time compute scaling for diffusion models (eventually to be applied to robotics diffusion policy) and simulation of natural selection. 
 
 If you want to chat, my email is nielok@stanford.edu
 <!--
